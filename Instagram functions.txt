@@ -1,0 +1,7 @@
+Instagram Functions
+
+1. log in function 
+2. home page
+3. stories page
+4. camara
+5. settings page
