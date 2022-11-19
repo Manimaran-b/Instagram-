@@ -9,3 +9,4 @@ Instagram Functions
 7.added filters
 8.added live feature
 9.added ask me a question feature
+10. added poll feature.
