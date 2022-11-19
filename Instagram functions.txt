@@ -7,6 +7,6 @@ Instagram Functions
 5. settings page
 6.reels page
 7.added filters
-8.added live feature
+8.added live feature to only 25 peoples
 9.added ask me a question feature only 10  members
 10. added poll feature.
