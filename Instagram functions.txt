@@ -10,3 +10,4 @@ Instagram Functions
 8.added live feature to only 25 peoples
 9.added ask me a question feature only 10  members
 10. added poll feature.
+11.added functionality, liking others post by double clicking. 
