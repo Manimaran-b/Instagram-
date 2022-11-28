@@ -12,3 +12,4 @@ Instagram Functions
 10. added poll feature.
 11.added functionality, liking others post by double clicking. 
 12. added comment function to user share thoughts
+13.rtrtryruyy
